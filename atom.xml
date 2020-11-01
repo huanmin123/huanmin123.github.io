@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>码虫</title>
+  
+  <subtitle>Bug Error</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://boke.huitoushian.cn/"/>
+  <updated>2020-10-31T21:36:42.143Z</updated>
+  <id>http://boke.huitoushian.cn/</id>
+  
+  <author>
+    <name>胡安民</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JavaScript正则表达式</title>
+    <link href="http://boke.huitoushian.cn/undefined/3442.html"/>
+    <id>http://boke.huitoushian.cn/undefined/3442.html</id>
+    <published>2020-10-31T21:19:47.000Z</published>
+    <updated>2020-10-31T21:36:42.143Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt;JavaScript正则表达式&lt;/h1&gt;
+
+&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt;定义正则表达式的 两种方法  第一种普通方式 
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Web" scheme="http://boke.huitoushian.cn/categories/Web/"/>
+    
+    
+      <category term="Jquery" scheme="http://boke.huitoushian.cn/tags/Jquery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jquery选择器大全</title>
+    <link href="http://boke.huitoushian.cn/undefined/64471.html"/>
+    <id>http://boke.huitoushian.cn/undefined/64471.html</id>
+    <published>2020-10-31T15:35:27.000Z</published>
+    <updated>2020-10-31T15:43:24.501Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt; Jquery选择器大全&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;主要看我怎么使用的    我下面案例就不贴 效果图了&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;基本选择器&quot;&gt;&lt;a href=&quot;#基本选择器&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Web" scheme="http://boke.huitoushian.cn/categories/Web/"/>
+    
+    
+      <category term="Jquery" scheme="http://boke.huitoushian.cn/tags/Jquery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jquery事件大全</title>
+    <link href="http://boke.huitoushian.cn/undefined/15859.html"/>
+    <id>http://boke.huitoushian.cn/undefined/15859.html</id>
+    <published>2020-10-31T15:35:19.000Z</published>
+    <updated>2020-10-31T19:01:01.478Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt;Jquery事件大全&lt;/h1&gt;
+
+&lt;h2 id=&quot;事件介绍和支持的对象&quot;&gt;&lt;a href=&quot;#事件介绍和支持的对象&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Web" scheme="http://boke.huitoushian.cn/categories/Web/"/>
+    
+    
+      <category term="Jquery" scheme="http://boke.huitoushian.cn/tags/Jquery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jquery基础</title>
+    <link href="http://boke.huitoushian.cn/undefined/32563.html"/>
+    <id>http://boke.huitoushian.cn/undefined/32563.html</id>
+    <published>2020-10-31T15:35:11.000Z</published>
+    <updated>2020-10-31T15:43:24.497Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt;Jquery基础&lt;/h1&gt;
+
+&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt;在学Jquery前
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Web" scheme="http://boke.huitoushian.cn/categories/Web/"/>
+    
+    
+      <category term="Jquery" scheme="http://boke.huitoushian.cn/tags/Jquery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jquery表单</title>
+    <link href="http://boke.huitoushian.cn/undefined/4194.html"/>
+    <id>http://boke.huitoushian.cn/undefined/4194.html</id>
+    <published>2020-10-31T15:35:04.000Z</published>
+    <updated>2020-10-31T15:43:24.500Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt;Jquery表单&lt;/h1&gt;
+
+&lt;h2 id=&quot;常用表单操作&quot;&gt;&lt;a href=&quot;#常用表单操作&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Web" scheme="http://boke.huitoushian.cn/categories/Web/"/>
+    
+    
+      <category term="Jquery" scheme="http://boke.huitoushian.cn/tags/Jquery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java模式大全</title>
+    <link href="http://boke.huitoushian.cn/undefined/57275.html"/>
+    <id>http://boke.huitoushian.cn/undefined/57275.html</id>
+    <published>2020-10-22T09:36:13.000Z</published>
+    <updated>2020-10-30T13:53:41.974Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt;java模式大全&lt;/h1&gt;
+
+&lt;h2 id=&quot;概念&quot;&gt;&lt;a href=&quot;#概念&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/categories/java/"/>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java组合实体模式</title>
+    <link href="http://boke.huitoushian.cn/undefined/10718.html"/>
+    <id>http://boke.huitoushian.cn/undefined/10718.html</id>
+    <published>2020-10-22T01:19:07.000Z</published>
+    <updated>2020-10-22T09:42:41.217Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt;java组合实体模式&lt;/h1&gt;
+
+&lt;p&gt;组合实体模式（Composite Entity Pattern）用在 EJB 持久化机制中。一个组合实体是一个 EJB 实体 bean，代表了对象的图解。当更新一个组合实体时，内部依赖对象 beans
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/categories/java/"/>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java组合模式</title>
+    <link href="http://boke.huitoushian.cn/undefined/40762.html"/>
+    <id>http://boke.huitoushian.cn/undefined/40762.html</id>
+    <published>2020-10-22T01:18:17.000Z</published>
+    <updated>2020-10-22T09:40:15.956Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt;java组合模式&lt;/h1&gt;
+
+&lt;p&gt;说是组合模式 其实就是 树节点    如果学过xml文件document文档操作的话 那么 这个模式就很好理解了  
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/categories/java/"/>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java状态模式</title>
+    <link href="http://boke.huitoushian.cn/undefined/43756.html"/>
+    <id>http://boke.huitoushian.cn/undefined/43756.html</id>
+    <published>2020-10-22T01:17:25.000Z</published>
+    <updated>2020-10-22T09:40:09.079Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt;java状态模式&lt;/h1&gt;
+
+&lt;p&gt;什么是状态模式?&lt;/p&gt;
+&lt;p&gt;就是行为随着状态的改变而改变  
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/categories/java/"/>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java装饰器模式</title>
+    <link href="http://boke.huitoushian.cn/undefined/2613.html"/>
+    <id>http://boke.huitoushian.cn/undefined/2613.html</id>
+    <published>2020-10-22T01:16:32.000Z</published>
+    <updated>2020-10-22T09:39:52.316Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt;java装饰器模式&lt;/h1&gt;
+
+&lt;p&gt;装饰器模式（Decorator
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/categories/java/"/>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java中介者模式</title>
+    <link href="http://boke.huitoushian.cn/undefined/10714.html"/>
+    <id>http://boke.huitoushian.cn/undefined/10714.html</id>
+    <published>2020-10-22T01:15:30.000Z</published>
+    <updated>2020-10-22T09:45:27.594Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt;java中介者模式&lt;/h1&gt;
+
+&lt;p&gt;中介者模式（Mediator
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/categories/java/"/>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java责任链模式</title>
+    <link href="http://boke.huitoushian.cn/undefined/6922.html"/>
+    <id>http://boke.huitoushian.cn/undefined/6922.html</id>
+    <published>2020-10-22T01:02:27.000Z</published>
+    <updated>2020-10-22T09:45:21.662Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/categories/java/"/>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java原型模式</title>
+    <link href="http://boke.huitoushian.cn/undefined/26863.html"/>
+    <id>http://boke.huitoushian.cn/undefined/26863.html</id>
+    <published>2020-10-22T01:01:42.000Z</published>
+    <updated>2020-10-23T14:08:16.608Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt;原型模式&lt;/h1&gt;
+
+&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt;原型模式（Prototype
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/categories/java/"/>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java业务代表模式</title>
+    <link href="http://boke.huitoushian.cn/undefined/5849.html"/>
+    <id>http://boke.huitoushian.cn/undefined/5849.html</id>
+    <published>2020-10-22T01:00:50.000Z</published>
+    <updated>2020-10-22T09:45:08.260Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt; java业务代表模式&lt;/h1&gt;
+
+&lt;p&gt;业务代表模式（Business Delegate
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/categories/java/"/>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java享元模式</title>
+    <link href="http://boke.huitoushian.cn/undefined/52848.html"/>
+    <id>http://boke.huitoushian.cn/undefined/52848.html</id>
+    <published>2020-10-22T01:00:11.000Z</published>
+    <updated>2020-10-22T09:45:02.714Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt;java享元模式&lt;/h1&gt;
+
+&lt;p&gt;享元模式（Flyweight
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/categories/java/"/>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java外观模式</title>
+    <link href="http://boke.huitoushian.cn/undefined/45495.html"/>
+    <id>http://boke.huitoushian.cn/undefined/45495.html</id>
+    <published>2020-10-22T00:59:00.000Z</published>
+    <updated>2020-10-30T14:08:00.887Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt;java外观模式&lt;/h1&gt;
+
+&lt;p&gt;外观模式（Facade
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/categories/java/"/>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java数据访问对象模式</title>
+    <link href="http://boke.huitoushian.cn/undefined/53166.html"/>
+    <id>http://boke.huitoushian.cn/undefined/53166.html</id>
+    <published>2020-10-22T00:58:12.000Z</published>
+    <updated>2020-10-22T09:44:51.708Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt;java数据访问对象模式&lt;/h1&gt;
+
+&lt;p&gt;数据访问对象模式（Data Access Object Pattern）或 DAO 模式用于把低级的数据访问 API
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/categories/java/"/>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java桥接模式</title>
+    <link href="http://boke.huitoushian.cn/undefined/39307.html"/>
+    <id>http://boke.huitoushian.cn/undefined/39307.html</id>
+    <published>2020-10-22T00:54:46.000Z</published>
+    <updated>2020-10-22T09:44:37.051Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt;java桥接模式&lt;/h1&gt;
+
+&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/categories/java/"/>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java前端控制器模式</title>
+    <link href="http://boke.huitoushian.cn/undefined/41548.html"/>
+    <id>http://boke.huitoushian.cn/undefined/41548.html</id>
+    <published>2020-10-22T00:53:54.000Z</published>
+    <updated>2020-10-22T09:44:32.626Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt;java前端控制器模式&lt;/h1&gt;
+
+&lt;p&gt;前端控制器模式（Front Controller
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/categories/java/"/>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java模板模式</title>
+    <link href="http://boke.huitoushian.cn/undefined/2078.html"/>
+    <id>http://boke.huitoushian.cn/undefined/2078.html</id>
+    <published>2020-10-22T00:46:31.000Z</published>
+    <updated>2020-10-22T09:44:27.582Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 align=&quot;center&quot;&gt;java模板模式&lt;/h1&gt;
+
+&lt;p&gt;在模板模式（Template
+        
+      
+    
+    </summary>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/categories/java/"/>
+    
+    
+      <category term="java" scheme="http://boke.huitoushian.cn/tags/java/"/>
+    
+  </entry>
+  
+</feed>
