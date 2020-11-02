@@ -2195,9 +2195,9 @@
             
             <tag> Spring </tag>
             
-            <tag> SpringMVC </tag>
-            
             <tag> Mybatis </tag>
+            
+            <tag> SpringMVC </tag>
             
         </tags>
       
